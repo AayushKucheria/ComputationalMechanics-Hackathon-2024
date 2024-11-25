@@ -14,4 +14,9 @@ Future work could include performing more systematic exploration of the types of
 
 Keywords: Computational Mechanics, Transformers,  Interpretability, AI Alignment.
 
+## Acknowledgements
+
+Research conducted at the Computational Mechanics For AI Safety Hackathon, 2024 (https://www.apartresearch.com/event/compmech)
+
 Full report [here](https://github.com/AayushKucheria/ComputationalMechanics-Hackathon-2024/blob/main/report.pdf).
+
